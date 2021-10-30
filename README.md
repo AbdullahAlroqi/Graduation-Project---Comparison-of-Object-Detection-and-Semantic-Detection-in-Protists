@@ -1,4 +1,4 @@
-# Graduation-Project---Comparison-of-Object-Detection-and-Semantic-Detection-in-Protists
+# Comparison of Object Detection and Semantic Detection in Protists
 
 ![Alt Text](Object_result_1.gif)
 ![Alt Text](Object_result_4.gif)
